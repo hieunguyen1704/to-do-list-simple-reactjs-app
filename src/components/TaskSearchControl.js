@@ -33,7 +33,7 @@ class TaskSearchControl extends Component {
                     />
                     <span className="input-group-btn">
                         <button className="btn btn-primary" type="button" onClick={this.onSearch}>
-                            <span className="fa fa-search mr-5"></span>Tìm
+                            <span className="fa fa-search mr-5"></span>Tìm kiếm
                         </button>
                     </span>
                 </div>
